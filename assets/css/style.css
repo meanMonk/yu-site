@@ -426,6 +426,7 @@ body {
 .stats-list {
   display: grid;
   gap: 30px;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .stats-card {
@@ -884,6 +885,7 @@ body {
   .service-list { grid-template-columns: 1fr 1fr; }
 
 
+  .techstack  .stats-list { grid-template-columns: repeat(4, 1fr); }
 
   /**
    * FEATURES
@@ -1018,7 +1020,7 @@ body {
     place-items: center;
   }
 
-
+  .techstack  .stats-list { grid-template-columns: repeat(7, 1fr); }
 
   /**
    * FOOTER
