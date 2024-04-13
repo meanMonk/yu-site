@@ -445,6 +445,12 @@ body {
 
 
 
+.techstack .stats-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
 /*-----------------------------------*\
@@ -791,6 +797,12 @@ body {
    */
 
   .stats-list { grid-template-columns: repeat(3, 1fr); }
+
+  /**
+   * ABOUT
+   */
+
+   .techstack  .stats-list { grid-template-columns: repeat(8, 1fr); }
 
 
 
