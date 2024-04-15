@@ -183,7 +183,7 @@ Contact Us
 +248-687-1365
 
 <ion-icon name="mail"></ion-icon>
-info@desinic.com
+info@vaayulabs.xyz
 help@desinic.com
 
 <ion-icon name="location"></ion-icon>
