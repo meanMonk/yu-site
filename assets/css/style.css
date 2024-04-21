@@ -1035,7 +1035,15 @@ body {
 }
 
 
+@media (min-width: 1400px) {
+  /**
+   * HERO
+   */
 
+  .hero { 
+    background-position: 0px bottom, center, center;
+  }
+}
 
 
 /**
